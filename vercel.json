@@ -1,6 +1,5 @@
 {
-
-        "buildCommand": "mkdir output && echo \"Hello, World 2\" >> output/index.txt",
-        "outputDirectory": "output"
-
+  "buildCommand": "mkdir output && echo \"Hello, World 2\" >> output/index.txt",
+  "outputDirectory": "output",
+  "framework": "nextjs",
 }
